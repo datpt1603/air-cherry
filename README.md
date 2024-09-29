@@ -5,4 +5,4 @@ yarn install or npm install
 yarn start or npm run start
 
 ## Bot
-[Cherry Game] (https://t.me/cherrygame_io_bot/game?startapp=r_673750261)
+[Cherry Game](https://t.me/cherrygame_io_bot/game?startapp=r_673750261)
